@@ -9,7 +9,7 @@
 
 	"APPLOVIN_BANNER_ID": "752014c2a689d8b1",
 	"APPLOVIN_INTERSTITIAL_ID": "d3f159308237278c",
-	"APPLOVIN_INTERSTITIAL_ONBACK":"5eqvn465Z34d6740t76hy",
+	"APPLOVIN_INTERSTITIAL_ONBACK":"d3f159308237278c",
 	"ENABLE_ONBACK_ADS":false,
 
 	"UNITY_BANNER": "Android_Banner",
@@ -54,7 +54,7 @@
 		{
  			"title": "Kay Jeweler's",
 			"image": "https://raw.githubusercontent.com/HaytamFrh/kaypic/main/logo.png",
-			"url": "https://"
+			"url": "https://www.kay.com/"
 		}
 		
 
